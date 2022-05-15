@@ -15,6 +15,7 @@ options:
   MQTT_USER: mqtt.user
   MQTT_PASSWORD: mqtt.password
   MQTT_PORT: 1883
+  MQTT_TOPIC: envoy/json
   envoy_host: envoy.local
   envoy_password: secret
 
