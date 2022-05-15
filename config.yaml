@@ -23,5 +23,6 @@ schema:
   MQTT_USER: str
   MQTT_PASSWORD: str
   MQTT_PORT: int
+  MQTT_TOPIC: str
   envoy_host: str
   envoy_password: str  
